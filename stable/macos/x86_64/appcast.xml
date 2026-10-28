@@ -3,6 +3,14 @@
   <channel>
     <title>kaarta (macos-x86_64)</title>
     <item>
+      <title>0.2.1</title>
+      <pubDate>Wed, 28 Oct 2026 03:18:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.3</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/DRREZAEM-ORG/kaarta-releases/releases/download/v0.2.1/kaarta-0.2.1-macos-x86_64.dmg" length="158769307" type="application/octet-stream" sparkle:edSignature="JHIrVzPV2F4pKj8sCIeHZ73G9Zf7ew4z3KP71Rh9cXBd27BF/WO392GdsIoInqGaevOGOWP+AhnVzDB9GiSiCw=="/>
+    </item>
+    <item>
       <title>0.2.0</title>
       <pubDate>Wed, 28 Oct 2026 03:03:52 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
