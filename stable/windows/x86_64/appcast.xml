@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>kaarta (windows-x86_64)</title>
+    <item>
+      <title>0.3.0</title>
+      <pubDate>Thu, 19 Nov 2026 08:56:28 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/DRREZAEM-ORG/kaarta-releases/releases/download/v0.3.0/kaarta-0.3.0-windows-x86_64-setup.exe" length="94164592" type="application/octet-stream" sparkle:edSignature="6YojjCNzrnLWCopp0KP6Lt39g1AUIVwlL8Ne3awS357hDCx8RavoP/6kgPqLgwa0RI3koJlycgwv3J+TZMg6AQ=="/>
+    </item>
+  </channel>
+</rss>

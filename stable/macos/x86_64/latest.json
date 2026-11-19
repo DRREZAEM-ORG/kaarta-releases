@@ -1,6 +1,6 @@
 {
-  "build_number": 5,
-  "sha": "48fccf2e9d68191afd791a70d41a6268cd354aa6",
-  "sha256": "694f9e9fd8723fdee9419bc2517a2b1c97b5485c2475635e720ec13ebbf388a1",
-  "version": "0.2.4"
+  "build_number": 6,
+  "sha": "6e1aae29f837b8901777ba394aaa50ca08ffa1e7",
+  "sha256": "a1ac0a3c44e43162b787a9d8c60ad98831ca904a6bfe9069f0efe581048dc96c",
+  "version": "0.3.0"
 }
