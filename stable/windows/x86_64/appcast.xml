@@ -3,6 +3,14 @@
   <channel>
     <title>kaarta (windows-x86_64)</title>
     <item>
+      <title>0.4.0</title>
+      <pubDate>Wed, 25 Nov 2026 09:04:49 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/DRREZAEM-ORG/kaarta-releases/releases/download/v0.4.0/kaarta-0.4.0-windows-x86_64-setup.exe" length="93932193" type="application/octet-stream" sparkle:edSignature="LHD/QI+vsE1BSr8EOXElgkuSyEMhzUFXg91XJh4gT3dYNS4OmU0c7hvlHPdLlnuL9QWNyVVQddD6Z9A5xlJSCg=="/>
+    </item>
+    <item>
       <title>0.3.0</title>
       <pubDate>Thu, 19 Nov 2026 08:56:28 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
